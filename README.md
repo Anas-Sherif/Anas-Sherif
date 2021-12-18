@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Anas
-- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python and C
 - 💞️ I’m looking to collaborate on Noothing
 - 📫 How to reach me anas@waifu.club
